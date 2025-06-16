@@ -1,37 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://youyouwoxin1153.github.io</id>
-    <title>AAIPF</title>
-    <updated>2022-05-06T08:57:44.521Z</updated>
+    <id>https://zhongzhiku.github.io</id>
+    <title>菌群移植科普网</title>
+    <updated>2025-06-16T08:29:52.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://youyouwoxin1153.github.io"/>
-    <link rel="self" href="https://youyouwoxin1153.github.io/atom.xml"/>
-    <subtitle>生命科学抗衰老实践者</subtitle>
-    <logo>https://youyouwoxin1153.github.io/images/avatar.png</logo>
-    <icon>https://youyouwoxin1153.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, AAIPF</rights>
+    <link rel="alternate" href="https://zhongzhiku.github.io"/>
+    <link rel="self" href="https://zhongzhiku.github.io/atom.xml"/>
+    <subtitle>一位菌群移植从业者做的菌群移植案例与科研科普网站</subtitle>
+    <logo>https://zhongzhiku.github.io/images/avatar.png</logo>
+    <icon>https://zhongzhiku.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 菌群移植科普网</rights>
+    <entry>
+        <title type="html"><![CDATA[新加坡开大便银行！平常存下自己的大便，生病时取出来吃有奇效]]></title>
+        <id>https://zhongzhiku.github.io/post/xin-jia-po-kai-da-bian-yin-xing-ping-chang-cun-xia-zi-ji-de-da-bian-sheng-bing-shi-qu-chu-lai-chi-you-qi-xiao/</id>
+        <link href="https://zhongzhiku.github.io/post/xin-jia-po-kai-da-bian-yin-xing-ping-chang-cun-xia-zi-ji-de-da-bian-sheng-bing-shi-qu-chu-lai-chi-you-qi-xiao/">
+        </link>
+        <updated>2022-07-12T19:22:42.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nature | 肠道菌群及其代谢物可影响神经再生与修复]]></title>
+        <id>https://zhongzhiku.github.io/post/jian-chong-zhi-gan-xi-bao-ke-yi-zhi-liao-tang-niao-bing/</id>
+        <link href="https://zhongzhiku.github.io/post/jian-chong-zhi-gan-xi-bao-ke-yi-zhi-liao-tang-niao-bing/">
+        </link>
+        <updated>2022-07-12T16:49:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>近日，英国伦敦帝国学院脑科学系神经学部的Simone Di Giovanni研究团队在Nature上发表论文《The gut metabolite indole-3 propionate promotes nerve regeneration and repair》。<br>
+<img src="https://uploader.shimo.im/f/tt1ppnGWtVhse7SW.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhY2Nlc3NfcmVzb3VyY2UiLCJleHAiOjE2NTc2NTMzNjEsImZpbGVHVUlEIjoiQjFBdzFhbldQWmhtOURxbSIsImlhdCI6MTY1NzY1MzA2MSwidXNlcklkIjo3MjAwNTQzfQ.zK2k2wK28cPDw_fBFoihbLzZNfo5L1qhFfvbUQpc4XQ" alt="图片:" loading="lazy"></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>近日，英国伦敦帝国学院脑科学系神经学部的Simone Di Giovanni研究团队在Nature上发表论文《The gut metabolite indole-3 propionate promotes nerve regeneration and repair》。<br>
+<img src="https://uploader.shimo.im/f/tt1ppnGWtVhse7SW.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhY2Nlc3NfcmVzb3VyY2UiLCJleHAiOjE2NTc2NTMzNjEsImZpbGVHVUlEIjoiQjFBdzFhbldQWmhtOURxbSIsImlhdCI6MTY1NzY1MzA2MSwidXNlcklkIjo3MjAwNTQzfQ.zK2k2wK28cPDw_fBFoihbLzZNfo5L1qhFfvbUQpc4XQ" alt="图片:" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试文章标题]]></title>
-        <id>https://youyouwoxin1153.github.io/post/ce-shi-wen-zhang-biao-ti/</id>
-        <link href="https://youyouwoxin1153.github.io/post/ce-shi-wen-zhang-biao-ti/">
+        <id>https://zhongzhiku.github.io/post/ce-shi-wen-zhang-biao-ti/</id>
+        <link href="https://zhongzhiku.github.io/post/ce-shi-wen-zhang-biao-ti/">
         </link>
         <updated>2022-05-05T08:34:59.000Z</updated>
         <summary type="html"><![CDATA[<p>文章内容</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>文章内容</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://youyouwoxin1153.github.io/post/hello-gridea/</id>
-        <link href="https://youyouwoxin1153.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></content>
     </entry>
 </feed>
