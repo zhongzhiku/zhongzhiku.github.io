@@ -59,9 +59,17 @@
             
                 <li>
                     
+                        <a href="https://weibo.com/renleiqidian" target="_blank">
+                            <i class="fab fa-weibo"></i>
+                        </a>
+                    
                 </li>
             
                 <li>
+                    
+                        <a href="https://www.zhihu.com/people/www.1153.me" target="_blank">
+                            <i class="fab fa-zhihu"></i>
+                        </a>
                     
                 </li>
             
@@ -171,6 +179,14 @@
         });
     });
 
+    
+        var allImg = $("img");
+        allImg.on("contextmenu", function () {
+            return false;
+        });
+        allImg.on("dragstart", function () {
+            return false;
+        });
     
 </script>
 
