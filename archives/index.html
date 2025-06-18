@@ -1,130 +1,152 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>永生科普频道-永生爱好者社群笔记</title>
-<link rel="shortcut icon" href="https://zhongzhiku.github.io/favicon.ico?v=1750227363989">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+    <meta charset="utf-8" >
+
+<title>文章归档 | 永生科普频道-永生爱好者社群笔记</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://zhongzhiku.github.io/favicon.ico?v=1750227636675">
 <link rel="stylesheet" href="https://zhongzhiku.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="永生科普频道-永生爱好者社群笔记 - Atom Feed" href="https://zhongzhiku.github.io/atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FHGMJMEXVP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-FHGMJMEXVP');
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="永生科普频道-永生爱好者社群笔记">
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://zhongzhiku.github.io">
+        <img src="https://zhongzhiku.github.io/images/avatar.png?v=1750227636675" class="site-logo">
+        <h1 class="site-title">永生科普频道-永生爱好者社群笔记</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+          <a class="social-link" href="https://www.twitter.com/kangshuaige" target="_blank">
+            <i class="fab fa-twitter"></i>
+          </a>
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      永生科普频道-永生爱好者社群笔记
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://www.1153.me" target="_blank">www.1153.me</a> | <a class="rss" href="https://zhongzhiku.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          
+
+          <h2 class="archives-title">文章归档</h2>
+          <div class="archives-container">
+            
+              <h2 class="year" data-aos="fade-in" data-aos-delay="500">2022</h2>
+              
+                
+                  <article class="post">
+                    <a href="https://zhongzhiku.github.io/post/xin-jia-po-kai-da-bian-yin-xing-ping-chang-cun-xia-zi-ji-de-da-bian-sheng-bing-shi-qu-chu-lai-chi-you-qi-xiao/">
+                      <h2 class="post-title">
+                        新加坡开大便银行！平常存下自己的大便，生病时取出来吃有奇效
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://zhongzhiku.github.io/post/jian-chong-zhi-gan-xi-bao-ke-yi-zhi-liao-tang-niao-bing/">
+                      <h2 class="post-title">
+                        Nature | 肠道菌群及其代谢物可影响神经再生与修复
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+                
+                  <article class="post">
+                    <a href="https://zhongzhiku.github.io/post/ce-shi-wen-zhang-biao-ti/">
+                      <h2 class="post-title">
+                        测试文章标题
+                      </h2>
+                    </a>
+                  </article>
+                
+              
+            
+          </div>
+
+          <div class="pagination-container">
+  
+  
+</div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
 </script>
 
 
-    <meta name="description" content="永生科普人类永生计划" />
-  </head>
-  <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://zhongzhiku.github.io">
-  <img class="avatar" src="https://zhongzhiku.github.io/images/avatar.png?v=1750227363989" alt="">
-  </a>
-  <h1 class="site-title">
-    永生科普频道-永生爱好者社群笔记
-  </h1>
-  <p class="site-description">
-    永生科普频道-永生爱好者社群笔记
-  </p>
-  <div class="menu-container">
-    
-      
-        <a href="/" class="menu">
-          首页
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          关于
-        </a>
-      
-    
-  </div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-        <a href="https://weibo.com/renleiqidian" target="_blank">
-          <i class="ri-weibo-line"></i>
-        </a>
-      
-    
-      
-        <a href="https://www.zhihu.com/people/www.1153.me" target="_blank">
-          <i class="ri-zhihu-line"></i>
-        </a>
-      
-    
-      
-    
-  </div>
-</div>
 
-    
-        
 
-<div class="archives-container">
-  
-    <h2 class="year">2022</h2>
-    
-      
-        <a href="https://zhongzhiku.github.io/post/xin-jia-po-kai-da-bian-yin-xing-ping-chang-cun-xia-zi-ji-de-da-bian-sheng-bing-shi-qu-chu-lai-chi-you-qi-xiao/" class="post">
-          <h2 class="post-title">
-            新加坡开大便银行！平常存下自己的大便，生病时取出来吃有奇效
-          </h2>
-          <div class="time">2022-07-13</div>
-        </a>
-      
-    
-      
-        <a href="https://zhongzhiku.github.io/post/jian-chong-zhi-gan-xi-bao-ke-yi-zhi-liao-tang-niao-bing/" class="post">
-          <h2 class="post-title">
-            Nature | 肠道菌群及其代谢物可影响神经再生与修复
-          </h2>
-          <div class="time">2022-07-13</div>
-        </a>
-      
-    
-      
-        <a href="https://zhongzhiku.github.io/post/ce-shi-wen-zhang-biao-ti/" class="post">
-          <h2 class="post-title">
-            测试文章标题
-          </h2>
-          <div class="time">2022-05-05</div>
-        </a>
-      
-    
-  
-</div>
 
-    
-        <div class="pagination-container">
-  
-  
-</div>
 
-    
-        <div class="site-footer">
-  Powered by <a href="https://www.1153.me" target="_blank">www.1153.me</a>
-  <a class="rss" href="https://zhongzhiku.github.io/atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
-
-      </div>
-    </div>
   </body>
 </html>
